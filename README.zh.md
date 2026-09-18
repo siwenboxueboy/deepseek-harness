@@ -73,7 +73,7 @@ pnpm dsh web
 
 ## 开发
 
-请先阅读[开发指南](docs/development.zh.md)与[架构文档](docs/architecture.zh.md)。
+请先阅读[开发指南](docs/development.zh.md)与[架构文档](docs/architecture.zh.md)。如果你的目标是从 Agent Runtime / Harness 视角学习源码，可按[源码阅读路线](docs/source-reading-guide.zh.md)逐步阅读。
 
 面向 agent：请遵循 [AGENTS.md](AGENTS.md)。
 
